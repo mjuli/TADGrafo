@@ -1,0 +1,5 @@
+/Users/julia/Projects/TADGrafo/TADGrafo/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/julia/Projects/TADGrafo/TADGrafo/bin/Debug/TADGrafo.exe.mdb
+/Users/julia/Projects/TADGrafo/TADGrafo/bin/Debug/TADGrafo.exe
+/Users/julia/Projects/TADGrafo/TADGrafo/obj/x86/Debug/TADGrafo.exe
+/Users/julia/Projects/TADGrafo/TADGrafo/obj/x86/Debug/TADGrafo.exe.mdb

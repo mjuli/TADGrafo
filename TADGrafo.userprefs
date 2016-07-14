@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="TADGrafo/TADGrafo.csproj" RefactoringSettings.EnableRefactorings="True">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TADGrafo/Grafo.cs">
+    <Files>
+      <File FileName="TADGrafo/Program.cs" Line="129" Column="29" />
+      <File FileName="TADGrafo/Vertice.cs" Line="1" Column="1" />
+      <File FileName="TADGrafo/Aresta.cs" Line="1" Column="1" />
+      <File FileName="TADGrafo/Grafo.cs" Line="259" Column="65" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
